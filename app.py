@@ -52,4 +52,4 @@ if st.button("🚀 **Predict**"):
             st.error("🚫 This is a **SPAM** email. Be careful! 🚨")
 
 st.markdown("---")
-st.markdown("📝 Created with ❤️ by **Fiona Lin**")
+st.markdown("📝 Created with ❤️ by **Fiona Lin** © 2025")
