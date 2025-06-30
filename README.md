@@ -31,7 +31,7 @@ Make sure Python 3.7 or higher is installed. Then:
 # 1. Navigate to the project folder
 cd sideProject_spamEmail
 
-# 2. Install the dependencies
+# 2. (Optional) Install the dependencies
 pip install -r requirements.txt
 
 # 3. Launch the app
